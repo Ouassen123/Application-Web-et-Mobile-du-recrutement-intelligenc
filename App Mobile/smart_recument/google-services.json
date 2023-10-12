@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268571841047",
+    "project_id": "recutement-d0863",
+    "storage_bucket": "recutement-d0863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268571841047:android:7ec425d2e7669d69314252",
+        "android_client_info": {
+          "package_name": "com.pfa.recutement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268571841047-u2t16mbmi36lt3ifmjsbsrd9nl9tfvft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UdiZ4g1Xx4MdXGIAdyC8-kUfST67GVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268571841047-u2t16mbmi36lt3ifmjsbsrd9nl9tfvft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
